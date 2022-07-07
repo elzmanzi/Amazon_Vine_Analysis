@@ -9,6 +9,7 @@ Results:
   - ![Total umber of unpaid reviews by star rating]()
   - The total number of paid reviews is 613 and the one for non paid reviews is 64968
   - see below percentages of both paid 5 star reviews with 36.22% and unpaid 5 start reviews with 47.01%
+  
     ![percentage of paid reviews]()
     ![percentage of unpaid reviews]()
 Summary:
