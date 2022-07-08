@@ -1,8 +1,8 @@
 # Amazon_Vine_Analysis
 Pyspark,AWS and ETL using PgAdmin
 # Overview of the analysis of the Vine program:
-The Purpose of this analysis is to analyse data with PySpark, create a Database in AWS and connect it to PgAdmin, as our dataset is huge, we used PySpark 
-to perform ETL process. 
+This project is intended to practise our ETL skills, we are going to use the dataset from Amazon review dataset
+(https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Wireless_v1_00.tsv.gz). We will perform our ETL using PySpark, connecting our data storage from amazon AWS to pgAdmin as our database engine. 
 ## Results:
   - with the unpaid and paid program reviews, the results are shown below
   - ![Total umber of paid reviews by star rating](https://github.com/elzmanzi/Amazon_Vine_Analysis/blob/main/Results/paid_reviews_byStar_ratings.PNG)
